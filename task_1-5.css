@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  width: 100%;
+  padding: 20px 0;
+  text-align: center;
+}
+
+.nav-list {
+  margin: 0 auto;
+  padding: 15px 0;
+  text-align: center;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.nav-list-item {
+  display: inline-block;
+  list-style: none;
+  padding: 0 20px;
+}
